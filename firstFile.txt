@@ -1,5 +1,6 @@
 My name is Bryce and this is a line that I'm adding to firstFile.txt!
 Matt is adding nifty new content!
 This is the initial contents
+THIS LINE IS FROM THE developA BRANCH MADE BY UserA
 of the first file that
 comprises the project.
